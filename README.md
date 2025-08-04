@@ -3,6 +3,7 @@
 
 This repository showcases the design and implementation of a **relational database system** for a veterinary hospital, developed for the **Information Systems and Databases Course** @ Instituto Superior Técnico.
 
+
 ## Project Overview
 
 The project involves building a database system that models real-world entities and operations in a veterinary hospital setting, from animal ownership to medical procedures and diagnostics.
@@ -25,21 +26,24 @@ This repository provides containerized services using **Docker Compose** to simp
 
 ### Services Included
 
+
+
 | Service     | Description                                                                 |
 |-------------|-----------------------------------------------------------------------------|
 | PostgreSQL  | Open-source relational database management system                           |
 | pgAdmin4    | GUI for PostgreSQL administration and query execution                       |
 | bdist/notebook | Jupyter Notebook Databases Stack (interactive DB notebooks with Python) |
 
-### 🐳 Requirements
+### Requirements
 
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- Clone the official ISDB workspace environment
+
 
 ---
 
-## ⚙️ Running the Environment
+## Running the Environment
+
 
 1. Clone the workspace environment repository provided by the course and follow the instructions given there.
 
@@ -79,10 +83,13 @@ git clone https://github.com/bdist/bdist-workspace.git
 
 │   └── report.sql
 
+
+
 └── README.md                 # This file
 
 
 ---
+
 
 
 ## Learning Outcomes
@@ -97,4 +104,6 @@ git clone https://github.com/bdist/bdist-workspace.git
 
 ## Acknowledgments
 
-Developed as part of the Information Systems and Databases course Instituto Superior Técnico, University of Lisbon
+Developed as part of the Information Systems and Databases course
+Instituto Superior Técnico, University of Lisbon
+
